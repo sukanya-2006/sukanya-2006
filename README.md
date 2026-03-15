@@ -13,4 +13,3 @@ powered web app.
 🚀 Still learning. Always building. Here to grow.
 
 
- ![Sukanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukanya-2006&show_icons=true&theme=tokyonight&hide_border=true)
