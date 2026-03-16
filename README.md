@@ -2,7 +2,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=26&pause=1000&color=F796F2&background=A369FF00&width=435&lines=Full+Stack+Developer+%7C+AI%2FML;DSA+Learner+%7C+Project+Builder;Logic+Driven+%7C+Creativity+Inspired" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=26&pause=1000&color=F796F2&background=A369FF00&width=435&lines=Full+Stack+Developer+%7C+AI%2FML;DSA+Learner+%7C+Project+Builder;Logic+Driven+%7C+Creativity+Inspired🎐"
+    />
 </p>
 
 
