@@ -27,7 +27,6 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=sukanya-2006&color=blueviolet&style=for-the-badge)
 
 
 
