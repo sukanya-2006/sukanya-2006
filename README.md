@@ -17,3 +17,7 @@
 
 ⚡ Still early. Already building. Watch this space. 🚀
 
+
+
+![snake](https://github.com/sukanya-2006/sukanya-2006/blob/output/github-contribution-grid-snake-dark.svg)
+
