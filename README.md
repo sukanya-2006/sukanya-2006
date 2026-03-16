@@ -19,21 +19,39 @@
 
 
 
+<div align="center">
 
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,java&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vercel,supabase,render&theme=dark)](https://skillicons.dev)
 
+</div>
+
 
 
 ![snake](https://github.com/sukanya-2006/sukanya-2006/blob/output/github-contribution-grid-snake-dark.svg)
 
 
+<div align="center">
 
+### 💬 My Motto
+
+*"Wander far enough and you'll find the best ideas live outside your comfort zone."*
+
+</div>
+
+
+
+<div align="center">
 
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sukanya-bhowmick-b8400333a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukanyabhowmick094@gmail.com)
+
+</div>
+
+
+
 
