@@ -1,22 +1,19 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=ff69b4&text=Sukanya%20Bhowmick.&section=header&reversal=false&textBg=false&fontSize=30&fontAlign=82&descSize=-3&fontAlignY=41)
 
-👋 Hi, I'm Sukanya!
 
-> *"I don't just learn technology — I build with it."*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=26&pause=1000&color=F796F2&background=A369FF00&width=435&lines=Full+Stack+Developer+%7C+AI%2FML;DSA+Learner+%7C+Project+Builder;Logic+Driven+%7C+Creativity+Inspired" />
+</p>
 
-💡 I think in systems. I build in code. I design with empathy.
 
-🔥 What drives me:
-- 🌐 **Full Stack Dev** — I don't just build pages, I architect experiences
-  from the first pixel to the last API call
-- 🤖 **AI/ML × Web** — teaching machines to think,
-  then wrapping it in something humans actually want to use
-- 🎨 **UI/UX** — the best code in the world means nothing
-  if people don't *feel* it
 
-✈️ Traveller at heart — new places, new perspectives, better ideas.
+<div align="center">
 
-⚡ Still early. Already building. Watch this space. 🚀
+<h2>Hi 👋 I'm Sukanya</h2>
 
+<p>Coding my way through challenges and travelling my way through life.</p>
+
+</div>
 
 
 <div align="center">
@@ -52,6 +49,9 @@
 
 </div>
 
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=ff69b4&section=footer&reversal=false&textBg=false&fontSize=30&fontAlign=82&descSize=-3&fontAlignY=41)
 
 
 
