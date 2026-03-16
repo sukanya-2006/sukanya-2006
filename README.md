@@ -27,5 +27,9 @@
 
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=sukanya-2006&color=blueviolet&style=for-the-badge)
+
+
+
 ![snake](https://github.com/sukanya-2006/sukanya-2006/blob/output/github-contribution-grid-snake-dark.svg)
 
