@@ -35,7 +35,7 @@
 
 <div align="center">
 
-### 💬 My Motto
+### 💬 Random Thoughts
 
 *"Wander far enough and you'll find the best ideas live outside your comfort zone."*
 
