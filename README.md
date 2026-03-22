@@ -12,7 +12,7 @@
 
 <h2>Hi 👋 I'm Sukanya</h2>
 
-<p>Coding my way through challenges and travelling my way through life.</p>
+<p>Sky is the Limit</p>
 
 </div>
 
