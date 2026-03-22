@@ -12,7 +12,7 @@
 
 <h2>Hi 👋 I'm Sukanya</h2>
 
-<h1><b>Sky is the Limit</b></h1>
+<h1><b>Build. Ship. Reapeat.</b></h1>
 </div>
 
 
