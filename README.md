@@ -12,8 +12,7 @@
 
 <h2>Hi 👋 I'm Sukanya</h2>
 
-<p>Sky is the Limit</p>
-
+<h1><b>Sky is the Limit</b></h1>
 </div>
 
 
