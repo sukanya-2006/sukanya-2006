@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=ff69b4&text=Sukanya%20Bhowmick.&section=header&reversal=false&textBg=false&fontSize=30&fontAlign=82&descSize=-3&fontAlignY=41)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=26&pause=1000&color=F796F2&background=A369FF00&width=435&lines=Full+Stack+Developer+%7C+AI%2FML;DSA+Learner+%7C+Project+Builder;Logic+Driven+%7C+Creativity+Inspired🎐"
     />
-</p>
+</p> -->
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=26&pause=1000&color=F796F2&background=A369FF00&width=800&lines=Full+Stack+Developer+%7C+AI%2FML;DSA+Learner+%7C+Project+Builder;Logic+Driven+%7C+Creativity+Inspired🎐"/>
+</p>
 
 
 <!-- <div align="center">
