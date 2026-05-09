@@ -8,12 +8,53 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 <h2>Hi 👋 I'm Sukanya</h2>
 
 <h1><b>Build. Ship. Repeat.</b></h1>
-</div>
+</div> -->
+
+
+
+<table>
+<tr>
+
+<td width="55%">
+
+<h2>Hi 👋 I'm Sukanya</h2>
+
+<h1><b>Build. Ship. Repeat.</b></h1>
+
+```python
+sukanya = {
+    "role": "Full Stack Developer",
+    "currently_working_on": [
+        "Web Development",
+        "Frontend Projects",
+        "Responsive Design",
+        "DSA"
+    ],
+    "currently_learning": [
+        "AI/ML",
+        "Backend Development",
+        "UI/UX"
+    ],
+    "motto": "Logic Driven | Creativity Inspired ✨"
+}
+```
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="./Hand coding-rafiki.svg" width="320"/>
+
+</td>
+
+</tr>
+</table>
+
 
 
 <div align="center">
