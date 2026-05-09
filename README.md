@@ -17,29 +17,35 @@
 
 
 
-<table>
-<tr>
-
-<td width="55%">
+<div align="center">
 
 <h2>Hi 👋 I'm Sukanya</h2>
 
 <h1><b>Build. Ship. Repeat.</b></h1>
 
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```python
 sukanya = {
     "role": "Full Stack Developer",
+
     "currently_working_on": [
         "Web Development",
         "Frontend Projects",
         "Responsive Design",
         "DSA"
     ],
+
     "currently_learning": [
         "AI/ML",
         "Backend Development",
         "UI/UX"
     ],
+
     "motto": "Logic Driven | Creativity Inspired ✨"
 }
 ```
