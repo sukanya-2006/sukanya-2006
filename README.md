@@ -45,8 +45,7 @@ sukanya = {
 </td>
 
 <td width="45%" align="center" valign="top">
-
-<img src="./Hand coding-rafiki.svg" width="320"/>
+<img src="./Hand coding-rafiki.svg" width="420"/>
 
 </td>
 
