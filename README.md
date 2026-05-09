@@ -8,14 +8,6 @@
 </p>
 
 
-<!-- <div align="center">
-
-<h2>Hi 👋 I'm Sukanya</h2>
-
-<h1><b>Build. Ship. Repeat.</b></h1>
-</div> -->
-
-
 
 <div align="center">
 
@@ -52,7 +44,7 @@ sukanya = {
 
 </td>
 
-<td width="45%" align="center">
+<td width="45%" align="center" valign="top">
 
 <img src="./Hand coding-rafiki.svg" width="320"/>
 
