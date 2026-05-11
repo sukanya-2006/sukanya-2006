@@ -84,7 +84,8 @@ sukanya = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sukanya-bhowmick-b8400333a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukanyabhowmick094@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-henna-nine-84.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SukanyaBho45080)
 </div>
 
 
