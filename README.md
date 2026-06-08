@@ -72,7 +72,7 @@ sukanya = {
 
 ### 💬 Random Thoughts
 
-*"Wander far enough and you'll find the best ideas live outside your comfort zone."*
+if it doesn't survive contact with real users, did it really ship?
 
 </div>
 
