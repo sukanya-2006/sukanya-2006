@@ -72,7 +72,7 @@ sukanya = {
 
 ### 💬 Random Thoughts
 
-if it doesn't survive contact with real users, did it really ship?
+<h2><i>If it doesn't survive contact with real users, did it really ship? <i></h2>
 
 </div>
 
